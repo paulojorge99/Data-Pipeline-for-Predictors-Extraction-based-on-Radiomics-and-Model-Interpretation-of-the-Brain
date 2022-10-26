@@ -1,5 +1,6 @@
 # Mining-MRI-Predictors-for-Mild-Cognitive-Impairment
-Master Dissertation: Medical Informatics
+Master's Dissertation: Medical Informatics
+Paulo Jorge Alves UMINHO 2022/2023
 
 To have access to all the data and all the code created, request key by email: paulojorgealves18@gmail.com
 
