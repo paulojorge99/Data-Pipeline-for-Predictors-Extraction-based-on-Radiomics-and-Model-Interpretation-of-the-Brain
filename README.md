@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Mining-MRI-Predictors-for-Mild-Cognitive-Impairment
 
@@ -17,5 +17,5 @@ Paulo Jorge Alves
 Victor Manuel Rodrigues Alves & Tiago Gil Oliveira
 
 #### UMINHO 2022/2023
-
-</center>
+  
+</div>
