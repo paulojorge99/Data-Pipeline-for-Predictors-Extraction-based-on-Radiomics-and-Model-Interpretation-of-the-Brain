@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mining-MRI-Predictors-for-Mild-Cognitive-Impairment
+# Mining MRI Predictors for Mild Cognitive Impairment
 
 ### Master’s Degree in Biomedical Engineering
   
