@@ -1,3 +1,5 @@
+<center>
+
 # Mining-MRI-Predictors-for-Mild-Cognitive-Impairment
 
 ### Master’s Degree in Biomedical Engineering
@@ -16,3 +18,4 @@ Victor Manuel Rodrigues Alves & Tiago Gil Oliveira
 
 #### UMINHO 2022/2023
 
+</center>
