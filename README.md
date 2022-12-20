@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pipeline for predictors extraction based on radiomics and model interpretation of the brain
+# Data Pipeline for Predictors Extraction based on Radiomics and Model Interpretation of the Brain
 
 </div>
 
