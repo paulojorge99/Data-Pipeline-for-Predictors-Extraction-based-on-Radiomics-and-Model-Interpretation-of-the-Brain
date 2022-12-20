@@ -6,7 +6,7 @@
 
 #### Authors: 
 
-* Paulo Jorge Alves (paulojorgealves18@gmail.com); 
+* Paulo Jorge Alves (paulojorgealves18@gmail.com)
 
 * Victor Alves (valves@di.uminho.pt)
 
