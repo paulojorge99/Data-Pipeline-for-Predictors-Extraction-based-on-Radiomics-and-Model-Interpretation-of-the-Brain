@@ -16,7 +16,7 @@
 
 #### Data pipeline: 
 
-In the first stage, the segmentation of all exams are performed, with FreeSurfer. Once this segmentation is done, all radiomics features are extracted both from the original scans and from each desired zone. After the feature extraction, the datasets that will be used as input to the DL algorithm are created. With the application of these models and their interpretation, the desired predictors are obtained.
+In the first stage, the segmentation of all exams are performed, with FreeSurfer. Once this segmentation is done, all radiomics features are extracted both from the original scans and from each desired zone. After the feature extraction, the datasets that will be used as input to the DL algorithm are created. With the application of the DL algorithm (XGBoost) and its interpretation, the desired predictors are obtained.
 
 <div align="center">
   
