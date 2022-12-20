@@ -1,21 +1,16 @@
 <div align="center">
 
-# Mining MRI Predictors for Mild Cognitive Impairment
+# Pipeline for predictors extraction based on radiomics and model interpretation of the brain
 
-### Master’s Degree in Biomedical Engineering
-  
-#### Paulo Jorge Alves 
-
-**Master's Dissertation:** Medical Informatics
-
-To have access to all the data and all the code created, request key by email: paulojorgealves18@gmail.com
-
-**Click on:** http://vilasefernandes.my.to:8080/share.cgi?ssid=274710623f414a94a7efa86c7725fbc9
-
-### Project supervised by: 
-
-Victor Manuel Rodrigues Alves & Tiago Gil Oliveira
-
-#### UMINHO 2022/2023
-  
 </div>
+
+#### Authors: 
+
+Paulo Jorge Alves (paulojorgealves18@gmail.com); 
+
+Victor Alves (valves@di.uminho.pt)
+
+Tiago Gil Oliveira (tiagogiloliveira@gmail.com)
+
+Tiago Jesus (trajesus@hotmail.com)
+
